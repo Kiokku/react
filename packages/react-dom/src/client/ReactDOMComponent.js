@@ -81,7 +81,6 @@ import {
 
 let didWarnInvalidHydration = false;
 let didWarnScriptTags = false;
-
 const DANGEROUSLY_SET_INNER_HTML = 'dangerouslySetInnerHTML';
 const SUPPRESS_CONTENT_EDITABLE_WARNING = 'suppressContentEditableWarning';
 const SUPPRESS_HYDRATION_WARNING = 'suppressHydrationWarning';
